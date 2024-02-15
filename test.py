@@ -1,4 +1,5 @@
 def getgit():
-    return "123"
+    return "123\n"
 
 print(getgit())
+
